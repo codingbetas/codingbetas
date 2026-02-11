@@ -59,25 +59,13 @@ Python-based chatbot service
 
 🔗 https://github.com/codingbetas/fly-your-tech-chatbot
 
----
+---## 📈 Engineering Focus
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingbetas&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+- Backend-first scalable systems  
+- API design & modular architecture  
+- NLP & AI-driven applications  
+- Clean, production-grade code  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codingbetas&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codingbetas&theme=darkhub&no-frame=true&row=1&column=5" />
-</p>
-
----
 
 ## 🌐 Connect
 <p align="center">
