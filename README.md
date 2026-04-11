@@ -131,7 +131,9 @@ Production-style deployment
 🧠 Focus: Backend Architecture • Auth Systems • DB Modeling
 
 🔗 https://github.com/codingbetas/saas-subscription-system
+```
 
+```
 ###🔹 SnapURL – URL Shortener (Scalable System)
 URL generation & redirection APIs
 Analytics tracking system
@@ -141,7 +143,9 @@ Designed for scalability
 🧠 Focus: System Design • API Performance • Analytics
 
 🔗 https://github.com/codingbetas/snapurl-url-shortener
+```
 
+```
 ###🔹 AI Resume Matcher
 NLP-based similarity engine (TF-IDF)
 Resume parsing pipeline
@@ -151,7 +155,9 @@ API documentation (Swagger)
 🧠 Focus: AI Systems • Backend Integration
 
 🔗 https://github.com/codingbetas/ai-powered-resume-matching
+```
 
+```
 ###🔹 FraudShield AI
 Fraud detection using ML models
 Async processing (Celery + Redis)
@@ -160,7 +166,9 @@ Transaction analysis APIs
 🧠 Focus: ML Systems • Async Architecture
 
 🔗 https://github.com/codingbetas/fraudshield-ai
+```
 
+```
 ### 📈 Engineering Focus
 Scalable backend systems
 API architecture & performance
