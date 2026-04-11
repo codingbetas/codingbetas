@@ -10,7 +10,7 @@
 </p>
 
 <!-- Typing Effect (Your Identity) -->
-```
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Design+systems+not+just+code;Scalable+thinking+wins;Consistency+creates+dominance" />
 </p>
@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cacheSeconds=86400" />
 </p>
-```
+
 
 ## 🧠 About Me
 Backend-focused Software Developer building **real-world scalable systems** using Python & FastAPI.
@@ -180,8 +180,9 @@ Scalable backend system managing subscription lifecycle.
 🔗 [GitHub](https://github.com/codingbetas/fraudshield-ai)
 ```
 
-###  📈 Engineering Focus
 ```
+###  📈 Engineering Focus
+
 Scalable backend systems
 API architecture & performance
 AI/ML backend integration
@@ -189,9 +190,8 @@ Async processing & distributed systems
 Clean, production-grade code
 ```
 
-###  🚀 Opportunities
-
 ```
+###  🚀 Opportunities
 Open to:
 
 Backend Developer Roles (Python / FastAPI)
@@ -201,6 +201,15 @@ Software Development Internships
 ```
 
 
-### 🌐 Connect
-<p align="center"> <a href="https://linkedin.com/in/himanshu-rathod-5815991bb"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:codewithhr@gmail.com"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/> </a> </p>
+```
+## 🌐 Connect
 
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-rathod-5815991bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:codewithhr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+```
