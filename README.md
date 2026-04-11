@@ -178,7 +178,6 @@ Scalable backend system managing subscription lifecycle.
 🧠 Focus: ML Systems • Async Architecture  
 
 🔗 [GitHub](https://github.com/codingbetas/fraudshield-ai)
-```
 
 
 ## 📈 Engineering Focus
