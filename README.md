@@ -1,5 +1,6 @@
 # 🌌 Himanshu Rathod  
 ### Backend Engineer • AI Systems Developer  
+### Optimizing for clarity over cleverness.
 
 <p align="center">
 
