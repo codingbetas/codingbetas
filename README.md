@@ -119,9 +119,11 @@ Prediction returned to client
 
 # 📌 Featured Projects
 
-```
+
 ###🔹 SaaS Subscription Management System
+```
 Scalable backend system managing subscription lifecycle.
+
 
 JWT & OAuth2 authentication
 Modular FastAPI architecture
@@ -133,8 +135,8 @@ Production-style deployment
 🔗 https://github.com/codingbetas/saas-subscription-system
 ```
 
-```
 ###🔹 SnapURL – URL Shortener (Scalable System)
+```
 URL generation & redirection APIs
 Analytics tracking system
 Custom alias & expiry logic
@@ -145,8 +147,8 @@ Designed for scalability
 🔗 https://github.com/codingbetas/snapurl-url-shortener
 ```
 
-```
 ###🔹 AI Resume Matcher
+```
 NLP-based similarity engine (TF-IDF)
 Resume parsing pipeline
 RBAC authentication system
@@ -157,8 +159,8 @@ API documentation (Swagger)
 🔗 https://github.com/codingbetas/ai-powered-resume-matching
 ```
 
-```
 ###🔹 FraudShield AI
+```
 Fraud detection using ML models
 Async processing (Celery + Redis)
 Transaction analysis APIs
@@ -168,8 +170,8 @@ Transaction analysis APIs
 🔗 https://github.com/codingbetas/fraudshield-ai
 ```
 
-```
 ### 📈 Engineering Focus
+```
 Scalable backend systems
 API architecture & performance
 AI/ML backend integration
