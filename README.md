@@ -180,7 +180,7 @@ Scalable backend system managing subscription lifecycle.
 🔗 [GitHub](https://github.com/codingbetas/fraudshield-ai)
 ```
 
-```
+
 ###  📈 Engineering Focus
 
 Scalable backend systems
@@ -188,9 +188,9 @@ API architecture & performance
 AI/ML backend integration
 Async processing & distributed systems
 Clean, production-grade code
-```
 
-```
+
+
 ###  🚀 Opportunities
 Open to:
 
@@ -198,7 +198,7 @@ Backend Developer Roles (Python / FastAPI)
 Software Development Internships
 
 📍 Available for immediate joining
-```
+
 
 
 ```
