@@ -181,13 +181,13 @@ Scalable backend system managing subscription lifecycle.
 ```
 
 
-###  📈 Engineering Focus
+## 📈 Engineering Focus
 
-Scalable backend systems
-API architecture & performance
-AI/ML backend integration
-Async processing & distributed systems
-Clean, production-grade code
+- Scalable backend systems  
+- API architecture & performance  
+- AI/ML backend integration  
+- Async processing & distributed systems  
+- Clean, production-grade code  
 
 
 
@@ -201,7 +201,6 @@ Software Development Internships
 
 
 
-```
 ## 🌐 Connect
 
 <p align="center">
@@ -212,4 +211,3 @@ Software Development Internships
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-```
