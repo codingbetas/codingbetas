@@ -73,8 +73,9 @@ I build projects like **SaaS platforms, analytics systems, and ML backends** tha
 
 ```
 
+
+###🔄 Backend Flow
 ```
-# #🔄 Backend Flow
 Client sends request to API
 API checks Redis cache
 Cache miss → fetch from PostgreSQL
@@ -82,8 +83,8 @@ Response cached for optimization
 Background tasks handled asynchronously
 ```
 
+###🔹 AI / ML System Architecture
 ```
-# #🔹 AI / ML System Architecture
         ┌──────────────┐
         │    Client    │
         └──────┬───────┘
@@ -107,19 +108,20 @@ Background tasks handled asynchronously
 │ / Storage  │     │ Output     │
 └────────────┘     └────────────┘
 ```
+
+### 🔄 ML Flow
 ```
-# # 🔄 ML Flow
 Input received via API
 Data preprocessing & transformation
 Model inference (ML/NLP)
 Prediction returned to client
 ```
 
-```
 # 📌 Featured Projects
 
 # #🔹 SaaS Subscription Management System
 
+```
 Scalable backend system managing subscription lifecycle.
 
 JWT & OAuth2 authentication
@@ -167,9 +169,10 @@ AI/ML backend integration
 Async processing & distributed systems
 Clean, production-grade code
 ```
-```
-# # 🚀 Opportunities
 
+### 🚀 Opportunities
+
+```
 Open to:
 
 Backend Developer Roles (Python / FastAPI)
@@ -178,8 +181,8 @@ Software Development Internships
 📍 Available for immediate joining
 ```
 
-```
-🌐 Connect
+
+###🌐 Connect
 <p align="center"> <a href="https://linkedin.com/in/himanshu-rathod-5815991bb"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:codewithhr@gmail.com"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/> </a> </p>
 
 <!-- Typing Effect (Your Identity) -->
