@@ -9,10 +9,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Scalable+Backend+Systems;AI-powered+Applications;System+Design+%7C+Clean+Code;Production+Mindset+Engineering" />
 </p>
 
----
+<!-- Typing Effect (Your Identity) -->
+```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Design+systems+not+just+code;Scalable+thinking+wins;Consistency+creates+dominance" />
+</p>
+
+<!-- Daily Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cacheSeconds=86400" />
+</p>
+```
 
 ## 🧠 About Me
-
 Backend-focused Software Developer building **real-world scalable systems** using Python & FastAPI.
 
 I specialize in designing systems that go beyond basic CRUD — focusing on:
@@ -117,57 +126,58 @@ Model inference (ML/NLP)
 Prediction returned to client
 ```
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
+### 🔹 SaaS Subscription Management System  
 
-### 🔹 SaaS Subscription Management System
-```
 Scalable backend system managing subscription lifecycle.
 
+- JWT & OAuth2 authentication  
+- Modular FastAPI architecture  
+- Relational DB design  
+- Production-style deployment  
 
-JWT & OAuth2 authentication
-Modular FastAPI architecture
-Relational DB design
-Production-style deployment
+🧠 Focus: Backend Architecture • Auth Systems • DB Modeling  
 
-🧠 Focus: Backend Architecture • Auth Systems • DB Modeling
+🔗 [GitHub](https://github.com/codingbetas/saas-subscription-system)
 
-🔗 https://github.com/codingbetas/saas-subscription-system
-```
+---
 
 ### 🔹 SnapURL – URL Shortener (Scalable System)
-```
-URL generation & redirection APIs
-Analytics tracking system
-Custom alias & expiry logic
-Designed for scalability
 
-🧠 Focus: System Design • API Performance • Analytics
+- URL generation & redirection APIs  
+- Analytics tracking system  
+- Custom alias & expiry logic  
+- Designed for scalability  
 
-🔗 https://github.com/codingbetas/snapurl-url-shortener
-```
+🧠 Focus: System Design • API Performance • Analytics  
 
-### 🔹 AI Resume Matcher
-```
-NLP-based similarity engine (TF-IDF)
-Resume parsing pipeline
-RBAC authentication system
-API documentation (Swagger)
+🔗 [GitHub](https://github.com/codingbetas/snapurl-url-shortener)
 
-🧠 Focus: AI Systems • Backend Integration
+---
 
-🔗 https://github.com/codingbetas/ai-powered-resume-matching
-```
+### 🔹 AI Resume Matcher  
 
-###🔹 FraudShield AI
-```
-Fraud detection using ML models
-Async processing (Celery + Redis)
-Transaction analysis APIs
+- NLP-based similarity engine (TF-IDF)  
+- Resume parsing pipeline  
+- RBAC authentication system  
+- API documentation (Swagger)  
 
-🧠 Focus: ML Systems • Async Architecture
+🧠 Focus: AI Systems • Backend Integration  
 
-🔗 https://github.com/codingbetas/fraudshield-ai
+🔗 [GitHub](https://github.com/codingbetas/ai-powered-resume-matching)
+
+---
+
+### 🔹 FraudShield AI  
+
+- Fraud detection using ML models  
+- Async processing (Celery + Redis)  
+- Transaction analysis APIs  
+
+🧠 Focus: ML Systems • Async Architecture  
+
+🔗 [GitHub](https://github.com/codingbetas/fraudshield-ai)
 ```
 
 ###  📈 Engineering Focus
@@ -194,13 +204,3 @@ Software Development Internships
 ### 🌐 Connect
 <p align="center"> <a href="https://linkedin.com/in/himanshu-rathod-5815991bb"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:codewithhr@gmail.com"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/> </a> </p>
 
-<!-- Typing Effect (Your Identity) -->
-```
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Design+systems+not+just+code;Scalable+thinking+wins;Consistency+creates+dominance" />
-</p>
-
-<!-- Daily Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cacheSeconds=86400" />
-</p>
