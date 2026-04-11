@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=codingbetas&color=blue"/>
 
 </p> 
 
@@ -28,6 +28,8 @@
 
 
 ## 🧠 About Me
+“Complexity is the enemy of reliability. I build systems that are as simple as possible, but no simpler.”
+
 Backend-focused Software Developer building **real-world scalable systems** using Python & FastAPI.
 
 I specialize in designing systems that go beyond basic CRUD — focusing on:
