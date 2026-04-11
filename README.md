@@ -74,7 +74,7 @@ I build projects like **SaaS platforms, analytics systems, and ML backends** tha
 ```
 
 
-###🔄 Backend Flow
+### 🔄 Backend Flow
 ```
 Client sends request to API
 API checks Redis cache
@@ -83,7 +83,7 @@ Response cached for optimization
 Background tasks handled asynchronously
 ```
 
-###🔹 AI / ML System Architecture
+### 🔹 AI / ML System Architecture
 ```
         ┌──────────────┐
         │    Client    │
@@ -119,9 +119,8 @@ Prediction returned to client
 
 # 📌 Featured Projects
 
-# #🔹 SaaS Subscription Management System
-
 ```
+###🔹 SaaS Subscription Management System
 Scalable backend system managing subscription lifecycle.
 
 JWT & OAuth2 authentication
@@ -133,7 +132,7 @@ Production-style deployment
 
 🔗 https://github.com/codingbetas/saas-subscription-system
 
-# #🔹 SnapURL – URL Shortener (Scalable System)
+###🔹 SnapURL – URL Shortener (Scalable System)
 URL generation & redirection APIs
 Analytics tracking system
 Custom alias & expiry logic
@@ -143,7 +142,7 @@ Designed for scalability
 
 🔗 https://github.com/codingbetas/snapurl-url-shortener
 
-# #🔹 AI Resume Matcher
+###🔹 AI Resume Matcher
 NLP-based similarity engine (TF-IDF)
 Resume parsing pipeline
 RBAC authentication system
@@ -153,7 +152,7 @@ API documentation (Swagger)
 
 🔗 https://github.com/codingbetas/ai-powered-resume-matching
 
-# #🔹 FraudShield AI
+###🔹 FraudShield AI
 Fraud detection using ML models
 Async processing (Celery + Redis)
 Transaction analysis APIs
@@ -162,7 +161,7 @@ Transaction analysis APIs
 
 🔗 https://github.com/codingbetas/fraudshield-ai
 
-# #📈 Engineering Focus
+### 📈 Engineering Focus
 Scalable backend systems
 API architecture & performance
 AI/ML backend integration
@@ -182,7 +181,7 @@ Software Development Internships
 ```
 
 
-###🌐 Connect
+### 🌐 Connect
 <p align="center"> <a href="https://linkedin.com/in/himanshu-rathod-5815991bb"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:codewithhr@gmail.com"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/> </a> </p>
 
 <!-- Typing Effect (Your Identity) -->
