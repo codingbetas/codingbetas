@@ -189,17 +189,17 @@ Scalable backend system managing subscription lifecycle.
 - Async processing & distributed systems  
 - Clean, production-grade code  
 
+---
 
+## 🚀 Opportunities
 
-###  🚀 Opportunities
 Open to:
+- Backend Developer Roles (Python / FastAPI)  
+- Software Development Internships  
 
-Backend Developer Roles (Python / FastAPI)
-Software Development Internships
+📍 Available for immediate joining  
 
-📍 Available for immediate joining
-
-
+---
 
 ## 🌐 Connect
 
@@ -211,3 +211,4 @@ Software Development Internships
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+
