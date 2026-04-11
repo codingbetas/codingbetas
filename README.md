@@ -2,6 +2,12 @@
 ### Backend Engineer • AI Systems Developer  
 
 <p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue"/>
+
+</p> 
+
+<p align="center">
   <i>Designing scalable systems, AI-driven backends, and production-grade architectures.</i>
 </p>
 
