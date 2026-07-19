@@ -45,7 +45,7 @@ I build projects like **SaaS platforms, analytics systems, and ML backends** tha
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,nodejs,react,postgresql,mongodb,redis,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,react,postgresql,redis,docker,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -164,20 +164,6 @@ Scalable backend system managing subscription lifecycle.
 🔗 [GitHub](https://github.com/codingbetas/snapurl-url-shortener)
 
 ---
-
-### 🔹 AI Resume Matcher  
-
-- NLP-based similarity engine (TF-IDF)  
-- Resume parsing pipeline  
-- RBAC authentication system  
-- API documentation (Swagger)  
-
-🧠 Focus: AI Systems • Backend Integration  
-
-🔗 [GitHub](https://github.com/codingbetas/ai-powered-resume-matching)
-
----
-
 ### 🔹 FraudShield AI  
 
 - Fraud detection using ML models  
@@ -188,6 +174,22 @@ Scalable backend system managing subscription lifecycle.
 
 🔗 [GitHub](https://github.com/codingbetas/fraudshield-ai)
 
+---
+
+### 🔹 Beautician Booking Platform
+
+Real-world booking system with distributed locking and state machine architecture.
+
+- Redis distributed locking to prevent double-booking race conditions
+- 5-state booking state machine (Requested → Accepted → In Progress → Completed/Cancelled)
+- RBAC with 2 roles (user/beautician) and full JWT authentication
+- Modular 7-file architecture following separation of concerns
+
+🧠 Focus: Distributed Systems • Race Condition Prevention • State Machine Design
+
+🔗 [GitHub](https://github.com/codingbetas/beautician-booking)
+
+---
 
 ## 📈 Engineering Focus
 
