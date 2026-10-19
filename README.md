@@ -36,5 +36,5 @@ I build production-grade scalable systems, microservices, and AI/ML pipelines. I
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Himanshu Rathod](https://linkedin.com/in/YOUR_LINKEDIN_URL) *(Update this link!)*
-* **Email:** your.email@example.com *(Update this!)*
+- **LinkedIn:** [Himanshu Rathod](https://www.linkedin.com/in/himanshu-rathod-5815991bb/)
+- **Email:** [codewithhr@gmail.com](mailto:codewithhr@gmail.com)
