@@ -9,7 +9,7 @@ I build production-grade scalable systems, microservices, and AI/ML pipelines. I
 ### 🚀 Featured Projects
 
 #### 🧠 AI & Machine Learning
-* **[Sentinella Enterprise](https://github.com/codingbetas/sentinella-enterprise)** - A full-stack AIOps platform with real-time WebSockets, Isolation Forest anomaly detection, and Gemini LLM diagnostics.
+* **[Sentinella Enterprise](https://github.com/codingbetas/sentinella-enterprise)** ![CI](https://github.com/codingbetas/sentinella-enterprise/actions/workflows/ci.yml/badge.svg) - A full-stack AIOps platform with real-time WebSockets, Isolation Forest anomaly detection, and Gemini LLM diagnostics.
 * **[RAG Knowledge Base](https://github.com/codingbetas/rag-knowledge-base)** - Retrieval-Augmented Generation pipeline using local embeddings, PostgreSQL (pgvector), and Groq.
 * **[MLOps Pipeline](https://github.com/codingbetas/ml-pipeline-mlops)** - End-to-end model tracking, versioning, and serving using MLflow and FastAPI.
 
